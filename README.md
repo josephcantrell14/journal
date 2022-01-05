@@ -1,8 +1,8 @@
 Fan Fiction
 -----------
-Enemy AC-130 above.
-Press Control-F to pay respects.
-Gonna play it again?
-Sure would like it.
-
+Enemy AC-130 above.<br>
+Press Control-F to pay respects.<br>
+Gonna play it again?<br>
+Sure would like it.<br>
+<br>
 https://josephcantrell.org
